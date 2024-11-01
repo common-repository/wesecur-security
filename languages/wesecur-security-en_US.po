@@ -1,0 +1,1176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeSecur Security 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wesecur-security\n"
+"POT-Creation-Date: 2020-06-22 18:11+0200\n"
+"PO-Revision-Date: 2020-06-22 18:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: wesecur-security\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: wesecur.php\n"
+
+#: includes/WesecurGlobalVariables.php:21
+msgid "https://www.wesecur.com"
+msgstr "https://www.wesecur.com"
+
+#: includes/WesecurGlobalVariables.php:24
+msgid "/contact/"
+msgstr "/contact/"
+
+#: includes/WesecurGlobalVariables.php:25
+msgid "/web-protection-plans/"
+msgstr "/web-protection-plans/"
+
+#: includes/WesecurGlobalVariables.php:26
+msgid "/detect-clean-plan/"
+msgstr "/detect-clean-plan/"
+
+#: includes/WesecurGlobalVariables.php:27
+msgid "/detect-clean-plan/wordpress/wordpress-security-plugin/"
+msgstr "/detect-clean-plan/wordpress/wordpress-security-plugin/"
+
+#: includes/WesecurGlobalVariables.php:28
+msgid "/product/detect/?attribute_pa_subscription=annual-payment"
+msgstr "/product/detect/?attribute_pa_subscription=annual-payment"
+
+#: includes/WesecurGlobalVariables.php:29
+msgid "/product/premium-plan/?attribute_pa_subscription=annual-payment"
+msgstr "/product/premium-plan/?attribute_pa_subscription=annual-payment"
+
+#: includes/WesecurGlobalVariables.php:30
+msgid "/malware-cleaning-services/"
+msgstr "/malware-cleaning-services/"
+
+#: includes/WesecurGlobalVariables.php:31
+msgid "https://dashboard.wesecur.com"
+msgstr "https://dashboard.wesecur.com"
+
+#: includes/WesecurSecurityWordpressPlugin.php:114
+#, php-format
+msgid ""
+"The Wesecur Security Premium setup is almost complete. <a href=\"%s\" target="
+"\"_blank\">Click here to configure FTP options and finish the setup.</a>"
+msgstr ""
+"The Wesecur Security Premium setup is almost complete. <a href=\"%s\" target="
+"\"_blank\">Click here to configure FTP options and finish the setup.</a>"
+
+#: includes/WesecurSecurityWordpressPlugin.php:118
+#, php-format
+msgid ""
+"We couldn't find any plan associated with the domain %s. Please <a href=\"%s"
+"\" target=\"_blank\">contact us.</a>"
+msgstr ""
+"We couldn't find any plan associated with the domain %s. Please <a href=\"%s"
+"\" target=\"_blank\">contact us.</a>"
+
+#: includes/WesecurSecurityWordpressPlugin.php:298
+#: includes/helpers/WesecurWordpressLocalStorage.php:42
+#, php-format
+msgid "We couldn't create folder %s. Check permissions"
+msgstr "We couldn't create folder %s. Check permissions"
+
+#: includes/WesecurSecurityWordpressPlugin.php:307
+#: includes/WesecurSecurityWordpressPlugin.php:316
+#: includes/WesecurSecurityWordpressPlugin.php:325
+#, php-format
+msgid "File %s must be writeable. Check file permissions"
+msgstr "File %s must be writeable. Check file permissions"
+
+#: includes/WesecurSecurityWordpressPlugin.php:346
+msgid "Every 3 days"
+msgstr "Every 3 days"
+
+#: includes/WesecurWordpressMenu.php:55
+msgid "Need help to clean your site?"
+msgstr "Need help to clean your site?"
+
+#: includes/helpers/WesecurWafProtection.php:122
+msgid "Too many failed login attempts. Try again in a few minutes"
+msgstr "Too many failed login attempts. Try again in a few minutes"
+
+#: includes/helpers/WesecurWafProtection.php:123
+msgid "Return to home"
+msgstr "Return to home"
+
+#: includes/helpers/WesecurWafProtection.php:124
+msgid "Too many failed login attempts | 403 - Access Denied"
+msgstr "Too many failed login attempts | 403 - Access Denied"
+
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:154
+msgid "deleted"
+msgstr "deleted"
+
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:160
+msgid "modified"
+msgstr "modified"
+
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:166
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:172
+msgid ""
+"Your WordPress version is not compatible with our Integrity Check algorithm. "
+"Try again in a few days."
+msgstr ""
+"Your WordPress version is not compatible with our Integrity Check algorithm. "
+"Try again in a few days."
+
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:170
+msgid "If this error persist, contact us."
+msgstr "If this error persist, contact us."
+
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:174
+#: includes/views/WesecurAntivirusPage.php:301
+#: includes/views/WesecurAntivirusPage.php:323
+msgid ""
+"We are already checking your site's malware. Please, wait until it is done."
+msgstr ""
+"We are already checking your site's malware. Please, wait until it is done."
+
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:346
+#: includes/helpers/WesecurWordpressIntegrityChecker.php:353
+msgid "added"
+msgstr "added"
+
+#: includes/views/WesecurAntivirusPage.php:91
+msgid "Actions"
+msgstr "Actions"
+
+#: includes/views/WesecurAntivirusPage.php:92
+#: includes/views/WesecurDashboardPage.php:136
+msgid ""
+"Essential plan includes all these features: <ul class=\"wesecursecurity-"
+"modal-features-list\"><li>Automatic site clean-up</li><li>Database malware "
+"scanner</li><li>Notifications about most important security vulnerabilities</"
+"li></ul>"
+msgstr ""
+"Essential plan includes all these features: <ul class=\"wesecursecurity-"
+"modal-features-list\"><li>Automatic site clean-up</li><li>Database malware "
+"scanner</li><li>Notifications about most important security vulnerabilities</"
+"li></ul>"
+
+#: includes/views/WesecurAntivirusPage.php:93
+#: includes/views/WesecurDashboardPage.php:137
+#: includes/views/WesecurDashboardPage.php:141
+#: includes/views/WesecurSettingsPage.php:209
+#: includes/views/WesecurWafPage.php:72
+msgid "Improve the security of your site"
+msgstr "Improve the security of your site"
+
+#: includes/views/WesecurAntivirusPage.php:94
+#: includes/views/WesecurDashboardPage.php:138
+msgid "Buy for $94.33/year"
+msgstr "Buy for $94.33/year"
+
+#: includes/views/WesecurAntivirusPage.php:96
+msgid ""
+"Free version of the plugin includes only remote scanner. We hardly recommend "
+"you to use <a href=\"#\" data-toggle=\"modal\" data-target="
+"\"#enableServerSideScanner\">Server Side Scanner</a> to analyze all your "
+"website files."
+msgstr ""
+"Free version of the plugin includes only remote scanner. We hardly recommend "
+"you to use <a href=\"#\" data-toggle=\"modal\" data-target="
+"\"#enableServerSideScanner\">Server Side Scanner</a> to analyze all your "
+"website files."
+
+#: includes/views/WesecurAntivirusPage.php:97
+msgid "Server Side Scanner"
+msgstr "Server Side Scanner"
+
+#: includes/views/WesecurAntivirusPage.php:98
+msgid ""
+"Server Side Scanner analyzes all the files in your website looking for virus "
+"and malware. Any file listed below must be cleaned."
+msgstr ""
+"Server Side Scanner analyzes all the files in your website looking for virus "
+"and malware. Any file listed below must be cleaned."
+
+#: includes/views/WesecurAntivirusPage.php:99
+msgid "Start Malware Check"
+msgstr "Start Malware Check"
+
+#: includes/views/WesecurAntivirusPage.php:101
+msgid ""
+"Your website is infected. This is the list of your site’s files with "
+"malware. Please review them and clean your site as soon as possible. Try to "
+"find the root cause to avoid reinfections. If you need any help, please "
+"contact us."
+msgstr ""
+"Your website is infected. This is the list of your site’s files with "
+"malware. Please review them and clean your site as soon as possible. Try to "
+"find the root cause to avoid reinfections. If you need any help, please "
+"contact us."
+
+#: includes/views/WesecurAntivirusPage.php:102
+msgid "Congratulations! There is no malware in your website"
+msgstr "Congratulations! There is no malware in your website"
+
+#: includes/views/WesecurAntivirusPage.php:103
+#: includes/views/WesecurAntivirusPage.php:141
+msgid "Ignore file"
+msgstr "Ignore file"
+
+#: includes/views/WesecurAntivirusPage.php:104
+#: includes/views/WesecurAntivirusPage.php:133
+msgid "Restore file"
+msgstr "Restore file"
+
+#: includes/views/WesecurAntivirusPage.php:105
+#: includes/views/WesecurAntivirusPage.php:134
+msgid "Delete file"
+msgstr "Delete file"
+
+#: includes/views/WesecurAntivirusPage.php:106
+#: includes/views/WesecurAntivirusPage.php:139
+msgid "Fix file"
+msgstr "Fix file"
+
+#: includes/views/WesecurAntivirusPage.php:107
+msgid "Last analysis:"
+msgstr "Last analysis:"
+
+#: includes/views/WesecurAntivirusPage.php:108
+msgid "Remote Scanner"
+msgstr "Remote Scanner"
+
+#: includes/views/WesecurAntivirusPage.php:109
+msgid ""
+"Remote scanner will check your website for known malware and blacklisting "
+"status. Please notice this scanner ONLY have access to what is visible on "
+"the browser so we do not guarantee 100% accuracy. This scanner DOES NOT "
+"detect malware on your website files, phising or backdoors. So, if there is "
+"no issue detected you may have a more complex and hidden problem. You can "
+"update to premium or contact us for a complete website malware analysis."
+msgstr ""
+"Remote scanner will check your website for known malware and blacklisting "
+"status. Please notice this scanner ONLY have access to what is visible on "
+"the browser so we do not guarantee 100% accuracy. This scanner DOES NOT "
+"detect malware on your website files, phising or backdoors. So, if there is "
+"no issue detected you may have a more complex and hidden problem. You can "
+"update to premium or contact us for a complete website malware analysis."
+
+#: includes/views/WesecurAntivirusPage.php:110
+msgid ""
+"We identified malware. That might indicate a hack. Please use the Server "
+"Side Scanner for a complete analysis."
+msgstr ""
+"We identified malware. That might indicate a hack. Please use the Server "
+"Side Scanner for a complete analysis."
+
+#: includes/views/WesecurAntivirusPage.php:111
+msgid "We inspect your WordPress files and look for malware."
+msgstr "We inspect your WordPress files and look for malware."
+
+#: includes/views/WesecurAntivirusPage.php:112
+msgid "Urls Scanned"
+msgstr "Urls Scanned"
+
+#: includes/views/WesecurAntivirusPage.php:113
+msgid "Urls with malware"
+msgstr "Urls with malware"
+
+#: includes/views/WesecurAntivirusPage.php:114
+msgid "Javascript Files Scanned"
+msgstr "Javascript Files Scanned"
+
+#: includes/views/WesecurAntivirusPage.php:115
+msgid "Start Remote Scanner"
+msgstr "Start Remote Scanner"
+
+#: includes/views/WesecurAntivirusPage.php:116
+msgid "Website"
+msgstr "Website"
+
+#: includes/views/WesecurAntivirusPage.php:117
+msgid "Info"
+msgstr "Info"
+
+#: includes/views/WesecurAntivirusPage.php:118
+msgid "Remote Scanner details"
+msgstr "Remote Scanner details"
+
+#: includes/views/WesecurAntivirusPage.php:119
+msgid "Scan"
+msgstr "Scan"
+
+#: includes/views/WesecurAntivirusPage.php:120
+msgid "Malware urls"
+msgstr "Malware urls"
+
+#: includes/views/WesecurAntivirusPage.php:121
+msgid "Javascript files"
+msgstr "Javascript files"
+
+#: includes/views/WesecurAntivirusPage.php:122
+#: includes/views/WesecurAntivirusPage.php:147
+#: includes/views/WesecurSettingsPage.php:274
+msgid "Close"
+msgstr "Close"
+
+#: includes/views/WesecurAntivirusPage.php:123
+msgid "Server"
+msgstr "Server"
+
+#: includes/views/WesecurAntivirusPage.php:124
+msgid "Technology"
+msgstr "Technology"
+
+#: includes/views/WesecurAntivirusPage.php:125
+msgid "View more details"
+msgstr "View more details"
+
+#: includes/views/WesecurAntivirusPage.php:126
+#: includes/views/WesecurDashboardPage.php:105
+msgid "Blacklists"
+msgstr "Blacklists"
+
+#: includes/views/WesecurAntivirusPage.php:127
+msgid ""
+"If your site is blacklisted means Google or other authorities warn users "
+"that your site is deceptive or dangerous."
+msgstr ""
+"If your site is blacklisted means Google or other authorities warn users "
+"that your site is deceptive or dangerous."
+
+#: includes/views/WesecurAntivirusPage.php:128
+msgid ""
+"Your site does not appear to be blacklisted. If you still see security "
+"warnings on your site, contact us for a more complete scan"
+msgstr ""
+"Your site does not appear to be blacklisted. If you still see security "
+"warnings on your site, contact us for a more complete scan"
+
+#: includes/views/WesecurAntivirusPage.php:129
+msgid "WordPress Integrity"
+msgstr "WordPress Integrity"
+
+#: includes/views/WesecurAntivirusPage.php:130
+msgid ""
+"We check if there are changes in your WordPress core files comparing them "
+"with WordPress.org files. Any change might be caused by a hack."
+msgstr ""
+"We check if there are changes in your WordPress core files comparing them "
+"with WordPress.org files. Any change might be caused by a hack."
+
+#: includes/views/WesecurAntivirusPage.php:131
+msgid "Start Integrity Check"
+msgstr "Start Integrity Check"
+
+#: includes/views/WesecurAntivirusPage.php:132
+#: includes/views/WesecurSettingsPage.php:275
+msgid "Apply"
+msgstr "Apply"
+
+#: includes/views/WesecurAntivirusPage.php:135
+msgid "File Status"
+msgstr "File Status"
+
+#: includes/views/WesecurAntivirusPage.php:136
+msgid "Size"
+msgstr "Size"
+
+#: includes/views/WesecurAntivirusPage.php:137
+msgid "Modified Date"
+msgstr "Modified Date"
+
+#: includes/views/WesecurAntivirusPage.php:138
+msgid "File"
+msgstr "File"
+
+#: includes/views/WesecurAntivirusPage.php:142
+#, php-format
+msgid ""
+"Your core files were modified which could mean your site has been hacked. We "
+"hardly recommend you to use our <a href=\"%s\" target=\"_blank\">Server Side "
+"Scanner</a> to check if there are any malware issues in your site."
+msgstr ""
+"Your core files were modified which could mean your site has been hacked. We "
+"hardly recommend you to use our <a href=\"%s\" target=\"_blank\">Server Side "
+"Scanner</a> to check if there are any malware issues in your site."
+
+#: includes/views/WesecurAntivirusPage.php:143
+msgid "Your site integrity is OK"
+msgstr "Your site integrity is OK"
+
+#: includes/views/WesecurAntivirusPage.php:144
+#: includes/views/WesecurSettingsPage.php:273
+msgid "I understand that this operation can not be reverted."
+msgstr "I understand that this operation can not be reverted."
+
+#: includes/views/WesecurAntivirusPage.php:145
+msgid "Fix integrity issue"
+msgstr "Fix integrity issue"
+
+#: includes/views/WesecurAntivirusPage.php:146
+msgid "Apply action"
+msgstr "Apply action"
+
+#: includes/views/WesecurAntivirusPage.php:227
+msgid ""
+"Malware results are not available right now. Please try again in a few "
+"minutes. If it happens again, please contact us."
+msgstr ""
+"Malware results are not available right now. Please try again in a few "
+"minutes. If it happens again, please contact us."
+
+#: includes/views/WesecurAntivirusPage.php:252
+msgid ""
+"Remote Malware results are not available right now. Please try again in a "
+"few minutes. If it happens again, please contact us."
+msgstr ""
+"Remote Malware results are not available right now. Please try again in a "
+"few minutes. If it happens again, please contact us."
+
+#: includes/views/WesecurAntivirusPage.php:261
+msgid ""
+"Blacklist results are not available right now. Please try again in a few "
+"minutes. If it happens again, please contact us."
+msgstr ""
+"Blacklist results are not available right now. Please try again in a few "
+"minutes. If it happens again, please contact us."
+
+#: includes/views/WesecurAntivirusPage.php:295
+msgid "Remote Scanner finished successfully. Check your results."
+msgstr "Remote Scanner finished successfully. Check your results."
+
+#: includes/views/WesecurAntivirusPage.php:297
+msgid ""
+"Remote Scanner is not available right now. Please try again in a few "
+"minutes. If it happens again, please contact us."
+msgstr ""
+"Remote Scanner is not available right now. Please try again in a few "
+"minutes. If it happens again, please contact us."
+
+#: includes/views/WesecurAntivirusPage.php:303
+#, php-format
+msgid ""
+"Your website is not compatible with our Remote Scanner. Please <a href=\"%s"
+"\" target=\"_blank\">contact us.</a>"
+msgstr ""
+"Your website is not compatible with our Remote Scanner. Please <a href=\"%s"
+"\" target=\"_blank\">contact us.</a>"
+
+#: includes/views/WesecurAntivirusPage.php:317
+msgid ""
+"Server Side Malware scanner has started. Refresh page in a few minutes to "
+"see the results."
+msgstr ""
+"Server Side Malware scanner has started. Refresh page in a few minutes to "
+"see the results."
+
+#: includes/views/WesecurAntivirusPage.php:319
+msgid ""
+"Server Side Malware Scanner is not available right now. Please try again in "
+"a few minutes. If it happens again, please contact us."
+msgstr ""
+"Server Side Malware Scanner is not available right now. Please try again in "
+"a few minutes. If it happens again, please contact us."
+
+#: includes/views/WesecurAntivirusPage.php:321
+msgid ""
+"We couldn't find any Plan associated at this domain name. Please, contact us."
+msgstr ""
+"We couldn't find any Plan associated at this domain name. Please, contact us."
+
+#: includes/views/WesecurAntivirusPage.php:326
+msgid "You need to configure an API KEY to use this action. Check our Plans."
+msgstr "You need to configure an API KEY to use this action. Check our Plans."
+
+#: includes/views/WesecurDashboardPage.php:94
+msgid "Audit Logs"
+msgstr "Audit Logs"
+
+#: includes/views/WesecurDashboardPage.php:95
+msgid "Security Strength Meter"
+msgstr "Security Strength Meter"
+
+#: includes/views/WesecurDashboardPage.php:96
+msgid "Website security indicator"
+msgstr "Website security indicator"
+
+#: includes/views/WesecurDashboardPage.php:97
+msgid "Enable Bruteforce protection"
+msgstr "Enable Bruteforce protection"
+
+#: includes/views/WesecurDashboardPage.php:98
+msgid "Malware"
+msgstr "Malware"
+
+#: includes/views/WesecurDashboardPage.php:99
+msgid ""
+"We identified malware in your website. Please go to Antivirus section to see "
+"more details"
+msgstr ""
+"We identified malware in your website. Please go to Antivirus section to see "
+"more details"
+
+#: includes/views/WesecurDashboardPage.php:100
+msgid "Your website is free of malware"
+msgstr "Your website is free of malware"
+
+#: includes/views/WesecurDashboardPage.php:101
+msgid ""
+"Your website is blacklisted. Please go to Antivirus section to see more "
+"details"
+msgstr ""
+"Your website is blacklisted. Please go to Antivirus section to see more "
+"details"
+
+#: includes/views/WesecurDashboardPage.php:102
+msgid "Your website is not blacklisted."
+msgstr "Your website is not blacklisted."
+
+#: includes/views/WesecurDashboardPage.php:103
+msgid ""
+"WordPress core files were modified. Please go to Antivirus section to see "
+"more details"
+msgstr ""
+"WordPress core files were modified. Please go to Antivirus section to see "
+"more details"
+
+#: includes/views/WesecurDashboardPage.php:104
+msgid "WordPress core files integrity is correct"
+msgstr "WordPress core files integrity is correct"
+
+#: includes/views/WesecurDashboardPage.php:106
+msgid "Files Integrity"
+msgstr "Files Integrity"
+
+#: includes/views/WesecurDashboardPage.php:107
+#: includes/views/WesecurDashboardPage.php:108
+#: includes/views/WesecurDashboardPage.php:109
+msgid "Vulnerabilities"
+msgstr "Vulnerabilities"
+
+#: includes/views/WesecurDashboardPage.php:110
+msgid ""
+"Do you want to know if your website has vulnerabilities? Enable Server Side "
+"Scanner"
+msgstr ""
+"Do you want to know if your website has vulnerabilities? Enable Server Side "
+"Scanner"
+
+#: includes/views/WesecurDashboardPage.php:111
+msgid ""
+"List of actions that are happening in your website. Check that there is no "
+"suspicious activity"
+msgstr ""
+"List of actions that are happening in your website. Check that there is no "
+"suspicious activity"
+
+#: includes/views/WesecurDashboardPage.php:112
+msgid "has activated plugin"
+msgstr "has activated plugin"
+
+#: includes/views/WesecurDashboardPage.php:113
+msgid "has deactivated plugin"
+msgstr "has deactivated plugin"
+
+#: includes/views/WesecurDashboardPage.php:114
+msgid "has created a new user"
+msgstr "has created a new user"
+
+#: includes/views/WesecurDashboardPage.php:115
+msgid "New user account created with name"
+msgstr "New user account created with name"
+
+#: includes/views/WesecurDashboardPage.php:116
+msgid "and roles"
+msgstr "and roles"
+
+#: includes/views/WesecurDashboardPage.php:117
+msgid "with roles"
+msgstr "with roles"
+
+#: includes/views/WesecurDashboardPage.php:118
+msgid "User"
+msgstr "User"
+
+#: includes/views/WesecurDashboardPage.php:119
+msgid "Bruteforce login attempt stopped for user"
+msgstr "Bruteforce login attempt stopped for user"
+
+#: includes/views/WesecurDashboardPage.php:120
+msgid "authentication succeeded"
+msgstr "authentication succeeded"
+
+#: includes/views/WesecurDashboardPage.php:121
+msgid "has failed login"
+msgstr "has failed login"
+
+#: includes/views/WesecurDashboardPage.php:122
+#: includes/views/WesecurWafPage.php:65
+msgid "Time"
+msgstr "Time"
+
+#: includes/views/WesecurDashboardPage.php:123
+msgid "Event"
+msgstr "Event"
+
+#: includes/views/WesecurDashboardPage.php:124
+#: includes/views/WesecurWafPage.php:66
+msgid "IP"
+msgstr "IP"
+
+#: includes/views/WesecurDashboardPage.php:125
+msgid "security"
+msgstr "security"
+
+#: includes/views/WesecurDashboardPage.php:126
+msgid "Change Admin username"
+msgstr "Change Admin username"
+
+#: includes/views/WesecurDashboardPage.php:127
+msgid "Disable Theme editor"
+msgstr "Disable Theme editor"
+
+#: includes/views/WesecurDashboardPage.php:128
+msgid "Protect XML-RPC"
+msgstr "Protect XML-RPC"
+
+#: includes/views/WesecurDashboardPage.php:129
+msgid "Disable PHP in sensitive folders"
+msgstr "Disable PHP in sensitive folders"
+
+#: includes/views/WesecurDashboardPage.php:130
+#: includes/views/WesecurSettingsPage.php:239
+msgid "Hide WordPress version"
+msgstr "Hide WordPress version"
+
+#: includes/views/WesecurDashboardPage.php:131
+msgid "Enable Server Side Scanner"
+msgstr "Enable Server Side Scanner"
+
+#: includes/views/WesecurDashboardPage.php:132
+msgid "Enable Web Application Firewall Protection"
+msgstr "Enable Web Application Firewall Protection"
+
+#: includes/views/WesecurDashboardPage.php:133
+msgid "Fix integrity errors"
+msgstr "Fix integrity errors"
+
+#: includes/views/WesecurDashboardPage.php:134
+msgid "Fix malware issues"
+msgstr "Fix malware issues"
+
+#: includes/views/WesecurDashboardPage.php:135
+msgid "Increase your security strength by applying this recommendations!"
+msgstr "Increase your security strength by applying this recommendations!"
+
+#: includes/views/WesecurDashboardPage.php:140
+#: includes/views/WesecurWafPage.php:71
+msgid ""
+"Premium plan includes all these features: <ul class=\"wesecursecurity-modal-"
+"features-list\"><li>Cloud website firewall</li><li>Automatic site clean-up</"
+"li><li>Database malware scanner</li><li>Notifications about most important "
+"security vulnerabilities</li></ul>"
+msgstr ""
+"Premium plan includes all these features: <ul class=\"wesecursecurity-modal-"
+"features-list\"><li>Cloud website firewall</li><li>Automatic site clean-up</"
+"li><li>Database malware scanner</li><li>Notifications about most important "
+"security vulnerabilities</li></ul>"
+
+#: includes/views/WesecurDashboardPage.php:142
+#: includes/views/WesecurWafPage.php:73
+msgid "Buy for $309.15/year"
+msgstr "Buy for $309.15/year"
+
+#: includes/views/WesecurSettingsPage.php:207
+msgid "Loading..."
+msgstr "Loading..."
+
+#: includes/views/WesecurSettingsPage.php:208
+msgid ""
+"An API key is required to activate some additional tools available in this "
+"plugin. The key is used to authenticate HTTP requests sent by the plugin to "
+"an API service managed by WeSecur. In order to configure it, you need to "
+"upgrade the current plan."
+msgstr ""
+"An API key is required to activate some additional tools available in this "
+"plugin. The key is used to authenticate HTTP requests sent by the plugin to "
+"an API service managed by WeSecur. In order to configure it, you need to "
+"upgrade the current plan."
+
+#: includes/views/WesecurSettingsPage.php:210
+msgid "Upgrade your plan"
+msgstr "Upgrade your plan"
+
+#: includes/views/WesecurSettingsPage.php:211
+#: includes/views/WesecurSettingsPage.php:217
+msgid "API Key"
+msgstr "API Key"
+
+#: includes/views/WesecurSettingsPage.php:212
+msgid ""
+"You can get the API key at https://www.wesecur.com/detect-clean-plan/. This "
+"API key is required to enable some additional functions available in this "
+"plugin. The key is used to authenticate the HTTP requests sent by the plugin "
+"to our API service at Wesecur."
+msgstr ""
+"You can get the API key at https://www.wesecur.com/detect-clean-plan/. This "
+"API key is required to enable some additional functions available in this "
+"plugin. The key is used to authenticate the HTTP requests sent by the plugin "
+"to our API service at Wesecur."
+
+#: includes/views/WesecurSettingsPage.php:213
+msgid "Setup an API key to enable this section"
+msgstr "Setup an API key to enable this section"
+
+#: includes/views/WesecurSettingsPage.php:214
+msgid ""
+"API key not found. Setup your API key before configure the FTP settings."
+msgstr ""
+"API key not found. Setup your API key before configure the FTP settings."
+
+#: includes/views/WesecurSettingsPage.php:215
+msgid ""
+"Timeout error, try again in a few minutes. If the problem persist increase "
+"your server timeout directive."
+msgstr ""
+"Timeout error, try again in a few minutes. If the problem persist increase "
+"your server timeout directive."
+
+#: includes/views/WesecurSettingsPage.php:216
+#: includes/views/WesecurSettingsPage.php:224
+#: includes/views/WesecurSettingsPage.php:254
+msgid "Save"
+msgstr "Save"
+
+#: includes/views/WesecurSettingsPage.php:218
+msgid "Get an API key"
+msgstr "Get an API key"
+
+#: includes/views/WesecurSettingsPage.php:220
+msgid "Firewall (WAF) Settings"
+msgstr "Firewall (WAF) Settings"
+
+#: includes/views/WesecurSettingsPage.php:221
+msgid "This section helps you to configure 'Brute Force Login Protection'."
+msgstr "This section helps you to configure 'Brute Force Login Protection'."
+
+#: includes/views/WesecurSettingsPage.php:222
+msgid "Hardening Settings"
+msgstr "Hardening Settings"
+
+#: includes/views/WesecurSettingsPage.php:223
+msgid "These actions will protect you from known attacks."
+msgstr "These actions will protect you from known attacks."
+
+#: includes/views/WesecurSettingsPage.php:225
+msgid "Enable Brute Force Protection to limit login attempts on your site."
+msgstr "Enable Brute Force Protection to limit login attempts on your site."
+
+#: includes/views/WesecurSettingsPage.php:226
+msgid "Ban duration"
+msgstr "Ban duration"
+
+#: includes/views/WesecurSettingsPage.php:227
+msgid "Bruteforce protection"
+msgstr "Bruteforce protection"
+
+#: includes/views/WesecurSettingsPage.php:228
+msgid "Allowed login attempts before blocking IP"
+msgstr "Allowed login attempts before blocking IP"
+
+#: includes/views/WesecurSettingsPage.php:229
+msgid "Minutes before resetting login attempts count"
+msgstr "Minutes before resetting login attempts count"
+
+#: includes/views/WesecurSettingsPage.php:230
+msgid "Minutes that banned IP will be blocked"
+msgstr "Minutes that banned IP will be blocked"
+
+#: includes/views/WesecurSettingsPage.php:231
+msgid "Minutes"
+msgstr "Minutes"
+
+#: includes/views/WesecurSettingsPage.php:232
+msgid "Default Admin User"
+msgstr "Default Admin User"
+
+#: includes/views/WesecurSettingsPage.php:233
+msgid ""
+"Change the default admin username to a more secure word. You have to avoid "
+"using 'admin' as your username."
+msgstr ""
+"Change the default admin username to a more secure word. You have to avoid "
+"using 'admin' as your username."
+
+#: includes/views/WesecurSettingsPage.php:234
+msgid "Theme and Plugin Editor"
+msgstr "Theme and Plugin Editor"
+
+#: includes/views/WesecurSettingsPage.php:235
+msgid ""
+"Disable Theme & Plugin editor to prevent errors and configuration issues."
+msgstr ""
+"Disable Theme & Plugin editor to prevent errors and configuration issues."
+
+#: includes/views/WesecurSettingsPage.php:236
+msgid "XML-RPC attacks"
+msgstr "XML-RPC attacks"
+
+#: includes/views/WesecurSettingsPage.php:237
+msgid ""
+"Disable XML-RPC to prevent login bruteforce and DoS attacks. Plugins like "
+"JetPack and WordPress mobile app will not work."
+msgstr ""
+"Disable XML-RPC to prevent login bruteforce and DoS attacks. Plugins like "
+"JetPack and WordPress mobile app will not work."
+
+#: includes/views/WesecurSettingsPage.php:238
+msgid "Apply hardening"
+msgstr "Apply hardening"
+
+#: includes/views/WesecurSettingsPage.php:240
+msgid ""
+"Hide your WordPress version so the attackers do not know information about "
+"what version you use. It also prevents vulnerability scanners from finding "
+"known vulnerabilities in order to exploit them."
+msgstr ""
+"Hide your WordPress version so the attackers do not know information about "
+"what version you use. It also prevents vulnerability scanners from finding "
+"known vulnerabilities in order to exploit them."
+
+#: includes/views/WesecurSettingsPage.php:241
+msgid "Revert hardening"
+msgstr "Revert hardening"
+
+#: includes/views/WesecurSettingsPage.php:242
+msgid "Block PHP execution in sensitive folders"
+msgstr "Block PHP execution in sensitive folders"
+
+#: includes/views/WesecurSettingsPage.php:243
+msgid ""
+"Block PHP files execution in sensitive folders like 'uploads'. This feature "
+"protects your website against some common malware behavior. Check your "
+"website has no issues after enabling this feature, as some plugins need to "
+"execute PHP in this folders to work properly"
+msgstr ""
+"Block PHP files execution in sensitive folders like 'uploads'. This feature "
+"protects your website against some common malware behavior. Check your "
+"website has no issues after enabling this feature, as some plugins need to "
+"execute PHP in this folders to work properly"
+
+#: includes/views/WesecurSettingsPage.php:244
+msgid "FTP Settings"
+msgstr "FTP Settings"
+
+#: includes/views/WesecurSettingsPage.php:245
+msgid ""
+"We need you to setup FTP settings to allow our malware analysis system work."
+msgstr ""
+"We need you to setup FTP settings to allow our malware analysis system work."
+
+#: includes/views/WesecurSettingsPage.php:246
+msgid "Connection type"
+msgstr "Connection type"
+
+#: includes/views/WesecurSettingsPage.php:247
+msgid "FTP (File Transfer Protocol)"
+msgstr "FTP (File Transfer Protocol)"
+
+#: includes/views/WesecurSettingsPage.php:248
+msgid "FTPS (Secure File Transfer Protocol)"
+msgstr "FTPS (Secure File Transfer Protocol)"
+
+#: includes/views/WesecurSettingsPage.php:249
+msgid "SFTP (SSH File Transfer Protocol"
+msgstr "SFTP (SSH File Transfer Protocol"
+
+#: includes/views/WesecurSettingsPage.php:250
+msgid "Host"
+msgstr "Host"
+
+#: includes/views/WesecurSettingsPage.php:251
+msgid "Port"
+msgstr "Port"
+
+#: includes/views/WesecurSettingsPage.php:252
+#: includes/views/WesecurSettingsPage.php:271
+msgid "Username"
+msgstr "Username"
+
+#: includes/views/WesecurSettingsPage.php:253
+msgid "Password"
+msgstr "Password"
+
+#: includes/views/WesecurSettingsPage.php:255
+msgid "WordPress installation folder"
+msgstr "WordPress installation folder"
+
+#: includes/views/WesecurSettingsPage.php:256
+msgid ""
+"Select your WordPress installation folder by clicking on the input field"
+msgstr ""
+"Select your WordPress installation folder by clicking on the input field"
+
+#: includes/views/WesecurSettingsPage.php:257
+msgid "Selected folder"
+msgstr "Selected folder"
+
+#: includes/views/WesecurSettingsPage.php:258
+msgid "WordPress installation folder invalid"
+msgstr "WordPress installation folder invalid"
+
+#: includes/views/WesecurSettingsPage.php:259
+msgid "Invalid host or IP"
+msgstr "Invalid host or IP"
+
+#: includes/views/WesecurSettingsPage.php:260
+msgid "Please specify one host or IP"
+msgstr "Please specify one host or IP"
+
+#: includes/views/WesecurSettingsPage.php:261
+msgid "Please specify FTP port"
+msgstr "Please specify FTP port"
+
+#: includes/views/WesecurSettingsPage.php:262
+msgid "Please specify FTP username"
+msgstr "Please specify FTP username"
+
+#: includes/views/WesecurSettingsPage.php:263
+msgid "Invalid username or password"
+msgstr "Invalid username or password"
+
+#: includes/views/WesecurSettingsPage.php:264
+msgid "Please specify FTP password"
+msgstr "Please specify FTP password"
+
+#: includes/views/WesecurSettingsPage.php:265
+msgid "Please specify WordPress installation path"
+msgstr "Please specify WordPress installation path"
+
+#: includes/views/WesecurSettingsPage.php:266
+msgid "Invalid FTP connection type"
+msgstr "Invalid FTP connection type"
+
+#: includes/views/WesecurSettingsPage.php:268
+msgid "Select your wordpress installation folder"
+msgstr "Select your wordpress installation folder"
+
+#: includes/views/WesecurSettingsPage.php:269
+msgid "Select"
+msgstr "Select"
+
+#: includes/views/WesecurSettingsPage.php:270
+msgid "Change admin username"
+msgstr "Change admin username"
+
+#: includes/views/WesecurSettingsPage.php:272
+msgid "Type new admin username"
+msgstr "Type new admin username"
+
+#: includes/views/WesecurSettingsPage.php:285
+#: includes/views/WesecurSettingsPage.php:286
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/views/WesecurSettingsPage.php:345
+msgid "XML-RPC disabled successfully"
+msgstr "XML-RPC disabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:349
+#: includes/views/WesecurSettingsPage.php:373
+#: includes/views/WesecurSettingsPage.php:396
+#: includes/views/WesecurSettingsPage.php:424
+msgid ""
+"Check .htaccess file permisions. It  must be writable to apply this "
+"hardening."
+msgstr ""
+"Check .htaccess file permisions. It  must be writable to apply this "
+"hardening."
+
+#: includes/views/WesecurSettingsPage.php:352
+#: includes/views/WesecurSettingsPage.php:376
+#: includes/views/WesecurSettingsPage.php:402
+#: includes/views/WesecurSettingsPage.php:430
+msgid ""
+"Couldn't find .htaccess file. The file should be in WordPress root folder."
+msgstr ""
+"Couldn't find .htaccess file. The file should be in WordPress root folder."
+
+#: includes/views/WesecurSettingsPage.php:369
+msgid "XML-RPC enabled successfully"
+msgstr "XML-RPC enabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:392
+msgid "PHP execution disabled successfully"
+msgstr "PHP execution disabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:400
+#: includes/views/WesecurSettingsPage.php:428
+msgid ""
+"Couldn't find an important plugin file. Try reinstalling the plugin to fix "
+"it."
+msgstr ""
+"Couldn't find an important plugin file. Try reinstalling the plugin to fix "
+"it."
+
+#: includes/views/WesecurSettingsPage.php:420
+msgid "PHP execution enabled successfully"
+msgstr "PHP execution enabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:448
+msgid "Theme & Plugin editor disabled successfully"
+msgstr "Theme & Plugin editor disabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:452
+msgid ""
+"Check wp-config.php file permisions. It  must be writable to apply this "
+"hardening."
+msgstr ""
+"Check wp-config.php file permisions. It  must be writable to apply this "
+"hardening."
+
+#: includes/views/WesecurSettingsPage.php:455
+msgid ""
+"Couldn't find wp-config.php file. The file should be in WordPress root "
+"folder."
+msgstr ""
+"Couldn't find wp-config.php file. The file should be in WordPress root "
+"folder."
+
+#: includes/views/WesecurSettingsPage.php:472
+msgid "Theme & Plugin editor enabled successfully"
+msgstr "Theme & Plugin editor enabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:474
+msgid ""
+"Check wp-config.php file permisions. It  must be writeable to apply this "
+"hardening."
+msgstr ""
+"Check wp-config.php file permisions. It  must be writeable to apply this "
+"hardening."
+
+#: includes/views/WesecurSettingsPage.php:493
+msgid "Hide WordPress version enabled successfully"
+msgstr "Hide WordPress version enabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:511
+msgid "Hide WordPress version disabled successfully"
+msgstr "Hide WordPress version disabled successfully"
+
+#: includes/views/WesecurSettingsPage.php:523
+msgid "Admin username changed successfully"
+msgstr "Admin username changed successfully"
+
+#: includes/views/WesecurSettingsPage.php:525
+msgid "Unable to change Admin username"
+msgstr "Unable to change Admin username"
+
+#: includes/views/WesecurSettingsPage.php:545
+msgid "FTP configuration saved successfully"
+msgstr "FTP configuration saved successfully"
+
+#: includes/views/WesecurSettingsPage.php:547
+msgid "Unable to save ftp configuration"
+msgstr "Unable to save ftp configuration"
+
+#: includes/views/WesecurSettingsPage.php:571
+msgid "API Key saved successfully"
+msgstr "API Key saved successfully"
+
+#: includes/views/WesecurSettingsPage.php:573
+msgid "We couldn't save the API Key"
+msgstr "We couldn't save the API Key"
+
+#: includes/views/WesecurSettingsPage.php:622
+msgid "Bruteforce settings changed successfully"
+msgstr "Bruteforce settings changed successfully"
+
+#: includes/views/WesecurWafPage.php:62
+msgid "Firewall (WAF)"
+msgstr "Firewall (WAF)"
+
+#: includes/views/WesecurWafPage.php:63
+msgid "Banned IPs"
+msgstr "Banned IPs"
+
+#: includes/views/WesecurWafPage.php:64
+msgid "List of IP address blocked while doing bruteforce to your login page."
+msgstr "List of IP address blocked while doing bruteforce to your login page."
+
+#: includes/views/WesecurWafPage.php:67
+msgid "Web Application Firewall (WAF)"
+msgstr "Web Application Firewall (WAF)"
+
+#: includes/views/WesecurWafPage.php:68
+msgid "Requests"
+msgstr "Requests"
+
+#: includes/views/WesecurWafPage.php:69
+msgid ""
+"A web application firewall (WAF) protects your website from attacks and "
+"breaches originating from the Internet. Below You can see how our WAF "
+"protects you from Bad Bots, DDoS, SQLi and XSS"
+msgstr ""
+"A web application firewall (WAF) protects your website from attacks and "
+"breaches originating from the Internet. Below You can see how our WAF "
+"protects you from Bad Bots, DDoS, SQLi and XSS"
+
+#: includes/views/WesecurWafPage.php:70
+msgid ""
+"Free version of the plugin includes only basic bruteforce protection. We "
+"hardly recommend you to <a href=\"#\" data-toggle=\"modal\" data-target="
+"\"#enableWaf\">get our Firewall (WAF) license</a> to protect your website "
+"from attacks and hackers."
+msgstr ""
+"Free version of the plugin includes only basic bruteforce protection. We "
+"hardly recommend you to <a href=\"#\" data-toggle=\"modal\" data-target="
+"\"#enableWaf\">get our Firewall (WAF) license</a> to protect your website "
+"from attacks and hackers."
+
+#: includes/views/WesecurWafPage.php:84
+msgid "Get our Firewall (WAF) license to enable this section."
+msgstr "Get our Firewall (WAF) license to enable this section."
+
+#: includes/views/WesecurWordpressPage.php:162
+msgid "Your API Key is not valid or has expired. Contact Us."
+msgstr "Your API Key is not valid or has expired. Contact Us."
+
+#: includes/views/WesecurWordpressPage.php:164
+msgid "You don't have permission to access this resource. Contact Us."
+msgstr "You don't have permission to access this resource. Contact Us."
+
+#: includes/views/WesecurWordpressPage.php:166
+msgid ""
+"Ooops! It seems that we are having some technical problems. Try again later "
+"or if the problem persist, contact us."
+msgstr ""
+"Ooops! It seems that we are having some technical problems. Try again later "
+"or if the problem persist, contact us."
+
+#: includes/views/WesecurWordpressPage.php:207
+msgid "Invalid action name"
+msgstr "Invalid action name"
+
+#: includes/views/WesecurWordpressPage.php:212
+msgid "Protected action"
+msgstr "Protected action"
+
+#: includes/views/WesecurWordpressPage.php:217
+msgid "Action does not exist"
+msgstr "Action does not exist"
+
+#: wesecur.php:7
+msgid ""
+"The <a href=\"https://www.wesecur.com/\" target=\"_blank\">WeSecur</a> "
+"plugin audits and protects your WordPress by daily analyzing malware, "
+"blacklists and analyzing vulnerabilities that can be exploited to infect "
+"your website and blocking attacks and spambots with tools specially designed "
+"to protect your WordPress."
+msgstr ""
+"The <a href=\"https://www.wesecur.com/\" target=\"_blank\">WeSecur</a> "
+"plugin audits and protects your WordPress by daily analyzing malware, "
+"blacklists and analyzing vulnerabilities that can be exploited to infect "
+"your website and blocking attacks and spambots with tools specially designed "
+"to protect your WordPress."
